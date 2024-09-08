@@ -1,0 +1,27 @@
+/* Adicionando um fundo mais suave e melhorando o layout geral */
+body {
+    background-color: #f0f2f5; /* Cor de fundo mais suave */
+    font-family: Arial, sans-serif; /* Fonte limpa e legível */
+}
+
+.container {
+    max-width: 800px; /* Definindo uma largura máxima para o container */
+}
+
+.card {
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra suave */
+}
+
+.card-header {
+    background-color: #007bff; /* Cor de fundo azul */
+    color: #ffffff; /* Cor do texto branco */
+}
+
+.card-body {
+    background-color: #ffffff; /* Cor de fundo branca para o corpo do cartão */
+}
+
+.alert {
+    border-radius: 5px; /* Bordas arredondadas para o alerta */
+}
